@@ -1,2 +1,6 @@
+
 flake8
 pytest
+colorama>=0.4.6
+openai>=1.0.0
+bea0bf79f6b3510dc0f702e1f2d41fa6665133b3
