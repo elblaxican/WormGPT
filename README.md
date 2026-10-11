@@ -14,7 +14,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourName/WormGPT.git
+git clone https://github.com/elblaxican/WormGPT.git
 cd WormGPT
 
 # Install dependencies
@@ -66,5 +66,5 @@ MIT License — see `LICENSE` for details.
 
 ---
 
-**Developer:** YourName  
-**GitHub:** https://github.com/YourName
+**Developer:** FNSDMN  
+**GitHub:** https://github.com/elblaxican
