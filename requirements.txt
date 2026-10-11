@@ -1,2 +1,2 @@
-colorama>=0.4.6
-openai>=1.0.0
+flake8
+pytest
